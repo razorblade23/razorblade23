@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @razorblade23
-- 👀 I’m interested in all electronics, programing and cool projects
-- 🌱 I’m currently learning Go(lang)
-- Have experience in Python, HTML, CSS, JS, as well as SQL  databases and API development.
-- 💞️ I’m looking to collaborate on my and other projects
-- 📫 How to reach me 
-Send me a mail or a PM on GitHub
+### Hi there! 👋
 
-<!---
-razorblade23/razorblade23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Josip, a passionate Python developer with a focus on backend development using Flask. My expertise extends to various domains, including web scraping, desktop apps, CLI tools, and scripting. I enjoy working with SQL databases to build robust and scalable applications.
+
+#### 💻 Technologies & Tools:
+- **Languages:** Python, JavaScript, SQL
+- **Web Development:** Flask, HTML, CSS
+- **Databases:** SQL (SQLite, mySQL, mariaDB)
+- **Other Skills:** Web Scraping, Desktop Apps, CLI Tools, Automation
+
+#### 🚀 Currently Exploring:
+- Linux and Linux Administration
+- Setting up and managing Linux servers
+
+Feel free to explore my repositories, and don't hesitate to reach out for collaboration or discussions. Happy coding! 🚀
