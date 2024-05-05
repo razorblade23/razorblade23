@@ -25,7 +25,8 @@ I enjoy working with SQL and NoSQL databases to build robust and scalable applic
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode)](https://skillicons.dev)
 
-- **Other Skills:** Web Scraping, Desktop Apps, CLI Tools, Automation
+- **Other Skills:**
+  - Web Scraping, Desktop Apps, CLI Tools, Automation
 
 #### 🚀 Currently Exploring:
 - Linux and Linux Administration
