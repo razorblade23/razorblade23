@@ -12,7 +12,7 @@ I enjoy working with SQL and NoSQL databases to build robust and scalable applic
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,rust,php)](https://skillicons.dev)
 - **Web Development:**
 
-[![My Skills](https://skillicons.dev/icons?i=flask,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,bootstrap,react)](https://skillicons.dev)
 - **Databases:**
 
 [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,redis,mongodb)](https://skillicons.dev)
