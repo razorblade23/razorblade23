@@ -16,6 +16,11 @@ I enjoy working with SQL and NoSQL databases to build robust and scalable applic
 - **Databases:**
 
 [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,redis,mongodb)](https://skillicons.dev)
+
+- **Operating systems:**
+
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu)](https://skillicons.dev)
+
 - **Other Skills:** Web Scraping, Desktop Apps, CLI Tools, Automation
 
 #### 🚀 Currently Exploring:
