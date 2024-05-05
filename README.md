@@ -1,6 +1,10 @@
 ### Hi there! 👋
 
-I'm Josip, a passionate Python developer with a focus on backend development. My expertise extends to various domains, including web scraping, desktop apps, CLI tools, and scripting. I enjoy working with SQL and NoSQL databases to build robust and scalable applications.
+I'm Josip, a passionate Python developer with a focus on backend development.
+
+My expertise extends to various domains, including web scraping, desktop apps, CLI tools, and scripting. 
+
+I enjoy working with SQL and NoSQL databases to build robust and scalable applications.
 
 #### 💻 Technologies & Tools:
 - **Languages:**
