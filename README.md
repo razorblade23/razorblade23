@@ -4,7 +4,7 @@ I'm Josip, a passionate Python developer with a focus on backend development. My
 
 #### 💻 Technologies & Tools:
 - **Languages:**
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,rust,php)](https://skillicons.dev)
 - **Web Development:** Flask, HTML, CSS
 - **Databases:** SQL (SQLite, mySQL, mariaDB)
 - **Other Skills:** Web Scraping, Desktop Apps, CLI Tools, Automation
