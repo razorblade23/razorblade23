@@ -9,7 +9,12 @@ I enjoy working with SQL and NoSQL databases to build robust and scalable applic
 #### 💻 Technologies & Tools:
 - **Languages:**
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,rust,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,rust,php)](https://skillicons.dev)
+
+- **Markup languages**
+
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+
 - **Web Development:**
 
 [![My Skills](https://skillicons.dev/icons?i=flask,bootstrap,react)](https://skillicons.dev)
