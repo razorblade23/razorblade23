@@ -7,7 +7,7 @@ My expertise extends to various domains, including web scraping, desktop apps, C
 I enjoy working with SQL and NoSQL databases to build robust and scalable applications.
 
 #### 💻 Technologies & Tools:
-- **Languages:**
+- **Programming Languages:**
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,rust,php)](https://skillicons.dev)
 
