@@ -1,4 +1,4 @@
-## 👋 Hello, I’m Josip
+# 👋 Hello, I’m Josip
 
 Experienced Software Engineer specializing in:
 
