@@ -10,6 +10,9 @@ Experienced Software Engineer specializing in:
 
 ---
 
+I have started to develop open-source applications as i want to "give back to community".
+Besides contributing to open source I enjoy tinkering with electronics, hardware hacking, and software development in general.
+
 ## 🛠️ Skills
 
 | Containers        | Servers & Hosting       | Languages               | DevOps & Tools          |
