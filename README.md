@@ -1,43 +1,50 @@
-### Hi there! 👋
+## 👋 Hello, I’m Josip
 
-I'm Josip, a passionate Python developer with a focus on backend development.
+Experienced Software Engineer specializing in:
 
-My expertise extends to various domains, including web scraping, desktop apps, CLI tools, and scripting. 
+- **Web apps & Web technologies:** Go (Gin), Python (Flask), Python (FastAPI)  
+- **Cloud & Hosting:** Linux server management, VPS deployments
+- **Backend Languages:** Go · Python · Rust (beginner)
+- **Frontend tools:** HTML · HTMX · CSS · JavaScript · Bootstrap
+- **DevOps & Automation:** CI/CD pipelines (GitHub Actions, Jenkins)
 
-I enjoy working with SQL and NoSQL databases to build robust and scalable applications.
+---
 
-#### 💻 Technologies & Tools:
-- **Programming Languages:**
+## 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,rust,php)](https://skillicons.dev)
+| Containers        | Servers & Hosting       | Languages               | DevOps & Tools          |
+|-------------------|-------------------------|-------------------------|-------------------------|
+| Docker · Compose  | Linux · Nginx · Traefik | Go · Python · Rust(beginner) | Git · GitHub Actions    |
 
-- **Markup languages**
+---
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+## 🚀 Selected Projects
 
-- **Web Development:**
+- **[PyCrucible](https://github.com/razorblade23/PyCrucible):**  
+  A robust, cross-platform builder and launcher for Python apps using UV. Built with Rust.
 
-[![My Skills](https://skillicons.dev/icons?i=flask,bootstrap,react)](https://skillicons.dev)
-- **Databases:**
+- **[SmartDarts](https://github.com/razorblade23/SmartDarts_v2):**  
+  Web-based application designed to bring smart functionality to electronic dartboards. It is built to run on single-board computers (SBCs) like Raspberry Pi and interfaces with the physical dartboard via GPIO pins to accurately register hits.
 
-[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,redis,mongodb)](https://skillicons.dev)
+- **[Subbydoo](https://github.com/razorblade23/SubtitleSearcher):**  
+  Main purpose of the app is to help people finding appropriate subtitles for their Movie/TV-Show match from multiple subtitle sources.
+  This is an old project and no longer maintained.
 
-- **Operating systems:**
+---
 
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu)](https://skillicons.dev)
+## 📈 GitHub Statistics
 
-- **Technologies:**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=razorblade23&show_icons=true" alt="GitHub Stats"/>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode)](https://skillicons.dev)
+---
 
-- **Other Skills:**
-  - Web Scraping
-  - Desktop Apps
-  - CLI Tools
-  - Automation
+## 📫 Contact
 
-#### 🚀 Currently Exploring:
-- Linux and Linux Administration
-- Setting up and managing Linux servers
+- **Telegram:** razorblade23
+- **LinkedIn:** [linkedin.com/in/razorblade23](www.linkedin.com/in/razorblade23)
 
-Feel free to explore my repositories, and don't hesitate to reach out for collaboration or discussions. Happy coding! 🚀
+---
+
+Thank you for visiting my profile. Feel free to explore my repositories or reach out for collaboration!
