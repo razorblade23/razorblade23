@@ -46,7 +46,7 @@ Besides contributing to open source I enjoy tinkering with electronics, hardware
 ## 📫 Contact
 
 - **Telegram:** razorblade23
-- **LinkedIn:** [linkedin.com/in/razorblade23](www.linkedin.com/in/razorblade23)
+- **LinkedIn:** [linkedin.com/in/razorblade23](https://www.linkedin.com/in/razorblade23)
 
 ---
 
