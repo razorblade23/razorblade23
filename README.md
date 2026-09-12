@@ -26,7 +26,8 @@ Besides contributing to open source I enjoy tinkering with electronics, hardware
 - **[PyCrucible](https://github.com/razorblade23/PyCrucible):**  
   A robust, cross-platform builder and launcher for Python apps using UV. Built with Rust.
 
-** [The Python Ledger](https://thepythonledger.github.io/Docusaurus-engine/):**
+
+- ** [The Python Ledger](https://thepythonledger.github.io/Docusaurus-engine/):**
 Learning platform for Python programming language focused on hands on experience, real developer workflow. Features `markdown` based curriculum powered by *Docusaurus* engine with custom components. **WIP**
 
 - **[SmartDarts](https://github.com/razorblade23/SmartDarts_v2):**  
